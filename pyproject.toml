@@ -3,8 +3,9 @@ name = "ICU_Metaclassifier"
 version = "1.0.0"
 description = "TODO"
 authors = [
-    "Eric Macias
-    "IIC",
+    "Eric Macias",
+    "Santiago Salas",
+    "IIC"
 ]
 readme = "README.md"
 keywords=["python"]
