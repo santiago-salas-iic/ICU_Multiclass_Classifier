@@ -1,0 +1,184 @@
+Heart Rate:
+  - Heart Rate
+  - HR
+  - Pulse
+  - heartrate
+
+Respiratory Rate:
+  - Respiratory Rate
+  - respiration
+
+Temperature Celsius:
+  - Temperature
+  - temperature
+
+O2 saturation pulseoxymetry:
+  - SpO2
+  - O2 Saturation
+  - SaO2
+  - sao2
+
+O2 Flow:
+  - O2 L/%
+  - LPM O2
+  - Oxygen Flow Rate
+
+Inspired O2 Fraction:
+  - O2 Percentage
+  - FiO2
+  - FIO2 (%)
+  - Set Fraction of Inspired Oxygen (FIO2)
+
+Arterial Blood Pressure systolic:
+  - systemicsystolic
+
+Arterial Blood Pressure diastolic:
+  - systemicdiastolic
+
+Arterial Blood Pressure mean:
+  - Invasive BP
+  - MAP (mmHg)
+  - Arterial Line MAP (mmHg)
+  - systemicmean
+
+Non Invasive Blood Pressure systolic:
+  - noninvasivesystolic
+
+Non Invasive Blood Pressure diastolic:
+  - noninvasivediastolic
+
+Non Invasive Blood Pressure mean:
+  - Non-Invasive BP
+  - noninvasivemean
+
+Central Venous Pressure:
+  - CVP
+  - CVP (mmHg)
+  - cvp
+
+Pulmonary Artery Pressure systolic:
+  - pasystolic
+
+Pulmonary Artery Pressure diastolic:
+  - padiastolic
+
+Pulmonary Artery Pressure mean:
+  - PA
+  - pamean
+
+PCWP:
+  - PAOP
+  - paop
+
+SvO2:
+  - SVO2
+
+Cardiac Output (thermodilution):
+  - CO
+  - cardiacoutput
+
+Intra Cranial Pressure:
+  - ICP
+  - icp
+
+Cerebral Perfusion Pressure:
+  - CPP
+
+GCS - Eye Opening:
+  - Eye Opening
+  - Best Eye Response
+
+GCS - Verbal Response:
+  - Best Verbal Response
+  - Verbal Response
+
+GCS - Motor Response:
+  - Best Motor Response
+  - Motor Response
+
+Bladder Pressure:
+  - IAP
+
+Glucose finger stick (range 70-100):
+  - Bedside Glucose
+
+Risk for Falls:
+  - Fall Risk
+
+Pain Present:
+  - Pain Present
+
+Pain Assessment Method:
+  - Pain Assessment
+
+Pain Level:
+  - Pain Score/Goal
+
+Pain Level Acceptable:
+  - Patient s Comfort/Function (Pain) GOAL At Rest
+
+Ventilator Type:
+  - Ventilator Type
+
+Ventilator Mode:
+  - Mechanical Ventilator Mode
+  - Ventilator Support Mode
+
+Rate:
+  - Vent Rate
+
+PEEP set:
+  - PEEP
+
+Total PEEP Level:
+  - PEEP/CPAP
+
+Tidal Volume (set):
+  - Tidal Volume (set)
+
+Tidal Volume (observed):
+  - Tidal Volume Observed (VT)
+
+Tidal Volume (spontaneous):
+  - Vt Spontaneous (mL)
+  - Spont TV
+
+Minute Volume:
+  - MVe
+  - Exhaled MV
+
+Peak Insp. Pressure:
+  - Peak Insp. Pressure
+
+Plateau Pressure:
+  - Plateau Pressure
+
+Mean Airway Pressure:
+  - Mean Airway Pressure
+
+RSBI Deferred:
+  - RSBI
+  - 4. RSBI (RR/Vt)
+
+ECMO:
+  - ECMO
+
+Left Ventricular Assist Device Flow:
+  - LVAD
+
+Flow Rate (Impella):
+  - Impella
+
+O2 Delivery Device(s):
+  - O2 Admin Device
+  - O2 Device
+  - Oxygen Delivery Method
+
+CCSR CATEGORY 1:
+  - CCSR CATEGORY 1
+
+gender:
+  - gender
+
+icu_age:
+  - age 
