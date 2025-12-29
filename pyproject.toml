@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "ICU_Metaclassifier"
+name = "ICU_Multiclass_Classifier"
 version = "1.0.0"
-description = "TODO"
+description = "Multiclass machine-learning meta-classifier for diagnosis-based stratification of ICU patients"
 authors = [
     "Eric Macias",
     "Santiago Salas",
